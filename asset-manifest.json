@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Piyushvaswani13.github.io/Band-Website/static/css/main.df9a3b75.css",
+    "main.js": "/Piyushvaswani13.github.io/Band-Website/static/js/main.8c262c46.js",
+    "static/media/map.jpg": "/Piyushvaswani13.github.io/Band-Website/static/media/map.f164b4bdad91e4ceeac8.jpg",
+    "static/media/newyork.jpg": "/Piyushvaswani13.github.io/Band-Website/static/media/newyork.b1dc0f216fa01bd147ff.jpg",
+    "static/media/chicago.jpg": "/Piyushvaswani13.github.io/Band-Website/static/media/chicago.3f06c0720d859aa67c95.jpg",
+    "static/media/paris.jpg": "/Piyushvaswani13.github.io/Band-Website/static/media/paris.5ea39f78e2aff3742d38.jpg",
+    "static/media/ny.jpg": "/Piyushvaswani13.github.io/Band-Website/static/media/ny.d26ced9f983cd4410e83.jpg",
+    "static/media/la.jpg": "/Piyushvaswani13.github.io/Band-Website/static/media/la.7c2c11ce43be36574e22.jpg",
+    "static/media/sanfran.jpg": "/Piyushvaswani13.github.io/Band-Website/static/media/sanfran.b00af96eac786d56831e.jpg",
+    "index.html": "/Piyushvaswani13.github.io/Band-Website/index.html",
+    "main.df9a3b75.css.map": "/Piyushvaswani13.github.io/Band-Website/static/css/main.df9a3b75.css.map",
+    "main.8c262c46.js.map": "/Piyushvaswani13.github.io/Band-Website/static/js/main.8c262c46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df9a3b75.css",
+    "static/js/main.8c262c46.js"
+  ]
+}
