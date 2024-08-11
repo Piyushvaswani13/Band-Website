@@ -1,25 +1,25 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Navbar from './components/Navbar';
+import Slideshow from './components/Slideshow';
+import BandSection from './components/BandSection';
+import TourSection from './components/TourSection';
+import TicketModal from './components/TicketModal';
+import ContactSection from './components/ContactSection';
+import MapSection from './components/MapSection';
+import Footer from './components/Footer';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => (
+<div className="App" style={{ maxWidth: '2000px', marginTop: '20px' }}>
+    <Navbar />
+    <Slideshow />
+    <BandSection />
+    <TourSection />
+    <TicketModal />
+    <ContactSection />
+    <MapSection />
+    <Footer />
+  </div>
+);
 
 export default App;
